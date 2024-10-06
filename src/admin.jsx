@@ -50,7 +50,7 @@ const AdminLogin = () => {
         break;
       case 'anshumh@fme':
         if (password === 'passwordmh@fme') {
-          loggedInUser = 'Anshuman'; // Set logged in user
+          loggedInUser = 'Anshu'; // Set logged in user
           setAdminPage('admin4'); // Show Admin 4 component
         }
         break;
