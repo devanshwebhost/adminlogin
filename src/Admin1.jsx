@@ -15,11 +15,11 @@ const Admin1 = ({ handleLogout }) => {
         };
     
         // Send email using emailjs.send
-        emailjs.send(
-          'service_fbgznxe',       // Your EmailJS service ID
-          'template_dz3qrz6',      // Your EmailJS template ID
+       emailjs.send(
+          'service_nc1hjse',       // Your EmailJS service ID
+          'template_ru0468t',      // Your EmailJS template ID
           templateParams,          // Your pre-defined message data
-          'lhmhDY0VTks_MQE8B'      // Your EmailJS user ID
+          '4hqton78_PfYmiRSE'      // Your EmailJS user ID
         )
         .then((result) => {
 
