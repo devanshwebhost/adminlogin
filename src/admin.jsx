@@ -60,7 +60,7 @@ const AdminLogin = () => {
     }
 
     // Send email notification
-    send('service_fbgznxe', 'template_dz3qrz6', { message: `${loggedInUser} is logedin` }, 'lhmhDY0VTks_MQE8B' ) // Replace with your EmailJS details
+    send('service_nc1hjse', 'template_ru0468t', { message: `${loggedInUser} is log-in` }, '4hqton78_PfYmiRSE' ) // Replace with your EmailJS details
       .then((response) => {
         console.log('Email sent successfully!', response.status, response.text);
       })
