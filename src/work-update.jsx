@@ -3,34 +3,34 @@
         {
             "id": 1,
             "name": "devansh",
-            "workName": "Design Website",
-            "description": "Create a design mockup for the new client website.",
-            "dueDate": "2024-10-10",
-            "lastUpdated": "2024-10-01"
+            "workName": "10-Emails",
+            "description": "Make 10 emails to all small and new startups if the work is over then work on FME website!",
+            "dueDate": "08/10/24 till 9AM",
+            "lastUpdated": "07/10/24 at 9:00 AM"
           },
       {
         "id": 2,
         "admin": "Mithilesh",
-        "workName": "Develop Landing Page",
-        "description": "Implement the front-end development of the main landing page.",
-        "dueDate": "2024-10-10",
-        "lastUpdated": "2024-10-01"
+        "workName": "Insta reach",
+        "description": "Watch at list 3 videos about how to find clients on instagram and then make notes of that send it to FME work-update and tag monal!",
+        "dueDate": "08/10/24 till 9AM",
+        "lastUpdated": "07/10/24 at 9:00 AM"
       },
       {
         "id": 3,
         "admin": "Monal",
-        "workName": "Content Writing for Blog",
-        "description": "Write SEO-friendly content for the upcoming blog section.",
-        "dueDate": "2024-10-10",
-        "lastUpdated": "2024-10-01"
+        "workName": "Smart Work",
+        "description": "Make attandence excel sheet and update all log-in and log-out with admins name and timing, and when Mithilesh sir tag you in group take the notes and make a formatted pdf of the notes",
+        "dueDate": "08/10/24 till 9AM",
+        "lastUpdated": "07/10/24 at 9:00 AM"
       },
       {
         "id": 4,
         "admin": "Anshu",
-        "workName": "SEO Optimization",
-        "description": "Optimize the website for search engines using best SEO practices.",
-        "dueDate": "2024-10-10",
-        "lastUpdated": "2024-10-01"
+        "workName": "2 reels",
+        "description": "Post reels on FME instagram and also on linked-in and one post on insta and linked-in!",
+        "dueDate": "08/10/24 till 9AM",
+        "lastUpdated": "07/10/24 at 9:00 AM"
       }
     ]
 
